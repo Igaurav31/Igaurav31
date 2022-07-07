@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 }
 ```
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Igaurav31&theme=jolly" width="700">
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Igaurav31&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me all around the web:
@@ -50,4 +52,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gaurav-shinde-3105/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Igaurav31&theme=jolly" width="700">
+
