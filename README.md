@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 
 ### Find me all around the web:
 
+
 <p align="left">
 <a href="https://discord.gg/Qvz753jRQS" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-your-gaming-dude-rsps-wow-minecraft-and-maplestory-2.png" title = "Discord" alt="" height="30" /></a>
+<a href="https://twitter.com/Igaurav02__" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/gaurav-shinde-3105/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
