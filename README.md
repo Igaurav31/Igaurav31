@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-{
+```json{
   "name": "Gaurav Shinde",
   "pronouns": "he/him",
   "currentRole": "student🤓",
@@ -21,4 +21,4 @@
     "Listening to Music 🎧"
   ],
 
-}
+}```
