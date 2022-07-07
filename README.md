@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Igaurav31&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+### Find me all around the web:
+
+<p align="left">
+<a href="https://discord.gg/Qvz753jRQS" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-your-gaming-dude-rsps-wow-minecraft-and-maplestory-2.png" title = "Discord" alt="" height="30" /></a>
+</p>
