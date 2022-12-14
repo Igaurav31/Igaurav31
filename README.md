@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ```json
 {
   "name": "Gaurav Shinde",
-  "pronouns": "he/him",
   "currentRole": "student🤓",
   "education": "B.E in Computer Engineering at Pune University 💻",
   "favoriteLanguages": [
