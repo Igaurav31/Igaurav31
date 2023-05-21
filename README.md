@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Igaurav31&theme=jolly" width="700">
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igaurav31&show_icons=true&theme=transparent)
 
 
 
