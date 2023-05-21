@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gaurav-shinde-3105/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igaurav31&show_icons=true&locale=en&layout=compact" alt="Igaurav31"/></p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igaurav31&show_icons=true&theme=transparent)
