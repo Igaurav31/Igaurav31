@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igaurav31&show_icons=true&theme=transparent)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Igaurav31&label=Profile%20views&color=0e75b6&style=flat" alt="Igaurav31" /> </p>
 
 
